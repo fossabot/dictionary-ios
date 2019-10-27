@@ -1,10 +1,10 @@
 # dictionary-ios
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/vookimedlo/dictionary-ios/master/LICENSE) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvookimedlo%2Fdictionary-ios.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvookimedlo%2Fdictionary-ios?ref=badge_shield)
-
-[![Platform](https://img.shields.io/badge/platforms-iOS%2012.2%2B-ff69b4.svg)](https://img.shields.io/badge/platforms-iOS%2012.2%2B-ff69b4.svg)
+[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/vookimedlo/dictionary-ios/master/LICENSE) 
+[![Platform](https://img.shields.io/badge/platforms-iOS%2013.1%2B-ff69b4.svg)](https://img.shields.io/badge/platforms-iOS%2013.1%2B-ff69b4.svg)
 [![GitHub release](https://img.shields.io/github/release/vookimedlo/dictionary-ios.svg?label=latest%20release)](https://github.com/vookimedlo/dictionary-ios/releases/latest)
 [![Codebeat badge](https://codebeat.co/badges/f8715d72-0ed9-4685-b160-36c1be6605f6)](https://codebeat.co/projects/github-com-vookimedlo-dictionary-ios-master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvookimedlo%2Fdictionary-ios.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvookimedlo%2Fdictionary-ios?ref=badge_shield)
 
 Open English/Czech dictionary for the iOS platform - available in [the App Store][5]
 
